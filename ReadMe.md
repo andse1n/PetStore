@@ -40,3 +40,7 @@ bundle exec cucumber
 
 ### Results
 - Result of API Automation can be seen here :https://reports.cucumber.io/reports/25b51f8e-66e1-4066-925f-2f5140d8496e
+
+### Tools
+- IDE : Visual Studio Code
+- Programing Language : Ruby (supporing tools: Cucumber & Gherkin)
