@@ -1,4 +1,4 @@
-# Assignment Test - Technical Question (UI and API Automation)
+# Assignment Test - Technical Question API Automation
 This repository contains the assignment test for AMARTA
 
 ## Getting Started
